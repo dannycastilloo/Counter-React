@@ -1,8 +1,11 @@
-# React + Vite
+## Application
+![Alt text](image.png) 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This is a simple Counter App, which uses a Custom Hook to make the addition and a Component to show the buttons and text that conform the interface.
 
-Currently, two official plugins are available:
+## Information
+- Hooks allow us to use an state and other aspects of React without creating a class
+- Custom Hooks are a mechanism to reuse stateful login (such as remembering the current value)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project was initialized with React + Vite.
